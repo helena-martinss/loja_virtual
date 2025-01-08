@@ -152,6 +152,10 @@ nav a {
         margin: 24px auto;
     }
 
+    .frase-acima h2 {
+        margin-top: 36px;
+    }
+
     #produtos img, #sobre-a-loja img {
         max-width: 100%;
         display: block;
@@ -185,8 +189,8 @@ nav a {
         margin-left: 0;
     }
 
-    #sobre-a-loja h2 {
-        margin-top: 24px;
+    .frase-acima h2 {
+        margin-top: 36px;
     }
 
     #sobre-a-loja img {
